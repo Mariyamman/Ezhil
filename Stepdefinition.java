@@ -125,6 +125,8 @@ WebElement roomtype = p.getRoomtype();
 		  
 		  btnclk(click);
 	}
+	
+	the user can play by using train games 
 
 
 
